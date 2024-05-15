@@ -16,9 +16,11 @@ export default function Header({user, mutateUser}: any) {
          <h2 className="text-center">
          Welcome to Firebase Email Passwordless Link Authentication!
          </h2>
+         {/* 
          <h5 className="text-right">
            React Native Expo Publish: <a href="https://exp.host/@jglchen/firebase-auth-email" target="_blank" rel="noreferrer">https://exp.host/@jglchen/firebase-auth-email</a>
          </h5>
+         */}
          {!user?.isLoggedIn && 
           <>
             <UserLogin />
