@@ -15,12 +15,13 @@ This example creates an authentication system that uses a **signed and encrypted
       
 [![firebase-auth-email-screenshot](/images/firebase-auth-email-screenshot.png)](https://firebase-auth-email.vercel.app)
 
-**iOS** and **Android** mobile apps are also delivered. The apps are developed with **React Native**, anyone who is interested can test the apps through the [Expo Publish Link](https://expo.dev/@jglchen/firebase-auth-email) with [Expo Go](https://expo.dev/client) app. 
+**iOS** and **Android** mobile apps are also delivered. The apps are developed with **React Native**, anyone who is interested can test the development builds with [iOS Simulator Build](https://expo.dev/accounts/jglchen/projects/firebase-auth-email/builds/0f15f092-b8d8-4bc1-ac03-bf703c0d3edd) and [Android Internal Distribution Build](https://expo.dev/accounts/jglchen/projects/firebase-auth-email/builds/fb497610-636a-48ef-8686-725e40d19ed1). If the build storage link has expired, please go to [https://projects-jglchen.vercel.app/en/contact](https://projects-jglchen.vercel.app/en/contact) to request build files.
 
 ### [View the App](https://firebase-auth-email.vercel.app)
 ### [App GitHub](https://github.com/jglchen/firebase-auth-email)
 ### Docker: docker run -p 3000:3000 jglchen/firebase-auth-email
-### [React Native Expo Publish](https://expo.dev/@jglchen/firebase-auth-email)
+### [iOS Simulator Build](https://expo.dev/accounts/jglchen/projects/firebase-auth-email/builds/0f15f092-b8d8-4bc1-ac03-bf703c0d3edd)
+### [Android Internal Distribution Build](https://expo.dev/accounts/jglchen/projects/firebase-auth-email/builds/fb497610-636a-48ef-8686-725e40d19ed1)
 ### [React Native GitHub](https://github.com/jglchen/react-native-firebase-auth-email)
 ### back To [Series Home](https://jglchen.github.io/)
 
