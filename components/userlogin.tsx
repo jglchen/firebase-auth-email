@@ -42,7 +42,7 @@ function UserLogIn(){
 
             signInWithEmailLink(auth, email, window.location.href)
             .then((result) => {
-                //window.localStorage.removeItem('emailForSignIn');           
+                window.localStorage.removeItem('emailForSignIn');        //   
                 signinResultFollow(result);
             })
             .catch((error) => {
